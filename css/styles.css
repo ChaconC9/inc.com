@@ -1,3 +1,14 @@
 body {
-  
+  width: 100%
+}
+header div {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+.right_header {
+  display: inline-block;
+}
+.left_header {
+  display: inline-block;
 }
