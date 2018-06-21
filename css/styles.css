@@ -1,14 +1,29 @@
 body {
-  width: 100%
+  margin-left: 0;
+  margin-right: 0;
+}
+/* header */
+header {
+  overflow: auto;
+  background-color: black;
 }
 header div {
-  background-color: black;
   color: white;
   width: 100%;
-}
-.right_header {
   display: inline-block;
 }
-.left_header {
+.right {
+  width: 600px;
+  float: right;
+}
+.left {
+  width: 400px;
+  float: left;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+.left img {
   display: inline-block;
 }
