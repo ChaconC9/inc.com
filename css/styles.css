@@ -27,3 +27,12 @@ header a {
 .left img {
   display: inline-block;
 }
+header button {
+  color: black;
+  background-color: black;
+  border: none;
+}
+header i {
+  color: white;
+  padding: 5px;
+}
